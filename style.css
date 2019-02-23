@@ -1,0 +1,29 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+  background-color: #4682b4;
+  font-family: 'Raleway', sans-serif;
+}
+
+.wrapper{
+	margin: 0 auto;
+	width: 50%;
+}
+
+
+h1{
+	font-family: "Times New Roman", Times, serif;
+	font-style: oblique;
+	 font-size: 50px; 
+	color:#a52a2a;
+}
+
+
+p{
+	font-family: comic sans MS;
+	font-style: bold;
+}
+
